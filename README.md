@@ -16,5 +16,5 @@
 ### Para realizar o teste basta executar o comando abaixo no arquivo curso.js
 
 ```bash
-        node curso.js
+    node curso.js
 ```
