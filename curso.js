@@ -44,5 +44,4 @@ curso.addEstudante(new Educando("Fernanda", 1, [7,8,7]));
 curso.addEstudante(new Educando("João", 1, [7,5,9]))
 
 
-
-console.log(curso.listAprovacao(curso.listaEstudantes));
+curso.listAprovacao(curso.listaEstudantes);
